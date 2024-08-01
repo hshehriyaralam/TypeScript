@@ -76,6 +76,21 @@ console.log(arrMixed);
 
 
 
+/* 
+++++++++++++++++++++++++++++++++++++ Summary +++++++++++++++++++++++++++++++++++++++
+01) Array : Orderd list of Data
+02) Array : Collection multiple Data with difference Data type
+03) Typecsript static checking add array simple before declare array : let arr1 :string [] = [elements]
+04) Array methods, pop() : remove last element 
+05) push() : add last element
+06) shift() : remove 1st element 
+07) unshift() : add 1st element 
+08) join() : Bind array(remove array braces ) and joing array elemnts and convert into strings 
+09) ForEach() : Action perform all array  elements 
+10) map() : action perform all array element but return new array
+11) Union Type : How  to store multiple Data type in array use Union Type
+12) Union Type Syntax : let arr1 : (string, number) [] = [elements]
+*/
 
 
 
@@ -87,5 +102,4 @@ console.log(arrMixed);
 
 
 
-
-
+ 
